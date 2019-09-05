@@ -6,7 +6,7 @@ A minimal Reagent implementation for Haskell, to support the [Rahse (working nam
 
 ReactiveX is a household name, but [Reagent](https://github.com/JakeWharton/Reagent) shows off that ReactiveX isn't great everywhere, by virtue of not being ReactiveX. Await-async languages, so it turns out, have [a lot to gain from rethinking the operator](https://lam.io/blog/HPx/).
 
-Above providing definitions for rahse, this implementation is also an example of how even non-await languages that demand simplicity can also benefit from the thinking that went into Reagent. More is available at <//lam.io/blog/Rg2/>.
+Above providing definitions for rahse, this implementation is also an example of how even non-await languages that demand simplicity can also benefit from the thinking that went into Reagent. More is available at <https://lam.io/blog/Rg2/>.
 
 ## How is this used?
 
